@@ -55,11 +55,6 @@
 * **Product Tools**: Figma, XMind, PRD Writing, Agile Management
 * **Data**: SQL, Data Visualization
 
----
-
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=graceen2331-prog&show_icons=true&theme=minimal)
 
 ---
 
