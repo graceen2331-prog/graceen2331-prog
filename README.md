@@ -26,14 +26,14 @@
   3. 重构：基于原始坐标回填中文，**完美保留原文档格式与图表布局**。
 * **Stack**: Python, PyMuPDF, OpenAI API/DeepL, Streamlit
 * **Value**: 解决了外贸文档/学术论文阅读中的“格式崩溃”痛点。
-* [[View Code](https://github.com/graceen2331-prog/AI-PDF-Translator-PDF-.git) | [Live Demo](#)
+* [View Code](https://github.com/graceen2331-prog/AI-PDF-Translator-PDF-.git) | [Live Demo](#)
 
 #### 💻 **Instant Code Previewer (轻量级代码在线预览)**
 * **Problem**: 分享代码片段或 Demo 时，接收方通常需要下载文件并在本地环境配置后才能查看效果，流程繁琐。
 * **Solution**: 构建一个基于 Web 的沙箱环境，支持多语言语法高亮，通过 URL 即可实现“所见即所得”的代码渲染与分享。
 * **Stack**: React/Vue, Monaco Editor (VS Code 内核), Sandbox API
 * **Value**: 缩短了技术交流的路径，提升了协作效率 (Developer Experience)。
-* [View Code]((https://github.com/graceen2331-prog/AI-Instant-UI-Generator.git)) | [Live Demo](#)
+* [View Code](https://github.com/graceen2331-prog/AI-Instant-UI-Generator.git) | [Live Demo](#)
 
 #### 🤖 **Prompt Optimization Master (提示词优化大师)**
 * **Problem**: 普通用户难以写出结构化、高质量的 Prompt，导致模型输出不稳定。
@@ -61,7 +61,7 @@
 ### 📫 Connect with Me
 
 * **Email**: graceen2331@gmail.com
-[Link]
+
 <!--
 **graceen2331-prog/graceen2331-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
