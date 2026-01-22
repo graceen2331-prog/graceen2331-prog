@@ -26,7 +26,7 @@
   3. 重构：基于原始坐标回填中文，**完美保留原文档格式与图表布局**。
 * **Stack**: Python, PyMuPDF, OpenAI API/DeepL, Streamlit
 * **Value**: 解决了外贸文档/学术论文阅读中的“格式崩溃”痛点。
-* [View Code](https://github.com/graceen2331-prog/AI-PDF-Translator-PDF-.git) | [Live Demo](#)
+* [View Code](https://github.com/graceen2331-prog/AI-PDF-Translator-PDF-.git) | [Live Demo](https://ai-pdf-translator-pdf.vercel.app/)
 
 #### 💻 **Instant Code Previewer (轻量级代码在线预览)**
 * **Problem**: 分享代码片段或 Demo 时，接收方通常需要下载文件并在本地环境配置后才能查看效果，流程繁琐。
