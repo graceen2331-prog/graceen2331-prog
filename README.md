@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm 芝士 👋
 
 ### 🚀 AI Product Manager | Indie Developer | Prompt Engineer
 
@@ -66,9 +65,8 @@
 
 ### 📫 Connect with Me
 
-* **Email**: [Your Email]
-* **Blog/Portfolio**: [Link]
-* **LinkedIn**: [Link]
+* **Email**: graceen2331@gmail.com
+[Link]
 <!--
 **graceen2331-prog/graceen2331-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
