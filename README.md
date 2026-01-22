@@ -59,7 +59,7 @@
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=minimal)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=graceen2331-prog&show_icons=true&theme=minimal)
 
 ---
 
