@@ -62,8 +62,6 @@
 
 * **Email**: graceen2331@gmail.com
 
-
-* 这是我用 SSH 提交的第一行字！
 <!--
 **graceen2331-prog/graceen2331-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
